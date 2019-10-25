@@ -1,0 +1,8 @@
+com/bibby/crm/domain/Department.class
+com/bibby/crm/mapper/EmployeeMapper.class
+com/bibby/crm/domain/Employee.class
+com/bibby/crm/service/impl/EmployeeServiceImpl.class
+com/bibby/crm/mapper/DepartmentMapper.class
+com/bibby/crm/service/IEmployeeService.class
+com/bibby/crm/query/QueryObject.class
+com/bibby/crm/page/PageResult.class
