@@ -1,0 +1,6 @@
+# 檔案名稱 .gitignore
+target
+.classpath
+.git
+.project
+.settings
